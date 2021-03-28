@@ -5,7 +5,7 @@ The prefix for this bot is: '4b '.
 
 
 4b fill (message) | 
-    description: fills the given message to the maximum. | 
+    description: fills the given message. | 
     permission: everyone
 
 4b cc (emote pattern) | 
