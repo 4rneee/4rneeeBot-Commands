@@ -25,5 +25,5 @@ The prefix for this bot is: '4b '.
     permission: broadcaster and mods
 
 4b monte | 
-    description: sends a big square of our king monte. (the square is made of 3rd party emotes, that need to be added to the channel)
+    description: sends a big square of our king monte. (the square is made of 3rd party emotes, that need to be added to the channel) | 
     permission: everyone
