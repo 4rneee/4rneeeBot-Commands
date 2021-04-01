@@ -3,6 +3,9 @@ A list of commands for my Twitch-Bot
 
 The prefix for this bot is: '4b '.
 
+4b ping | 
+    description: return the Uptime of the bot and the amount of channles in which it is currently running. | 
+    permission: everyone
 
 4b fill (message) | 
     description: fills the given message. | 
@@ -23,7 +26,11 @@ The prefix for this bot is: '4b '.
 4b pyramid (number, message) | 
     description: makes a pyramid with the given length of the message. | 
     permission: broadcaster and mods
+    
+4b ml (username) | 
+    descreption: sends the link to the https://modlookup.3v.fi/ for the guve user. | 
+    permission: everyone
 
 4b monte | 
-    description: sends a big square of our king monte. (the square is made of 3rd party emotes, that need to be added to the channel) | 
+    description: sends a big square of our king monte https://i.imgur.com/sxCJJsv.png. (this command needs to be added by @4rneee, bacause the square is made of 3rd party emotes, that need to be added to the channel) | 
     permission: everyone
