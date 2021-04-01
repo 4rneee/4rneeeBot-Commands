@@ -11,7 +11,7 @@ The prefix for this bot is: '4b '.
     description: fills the given message. | 
     permission: everyone
 
-4b cc (emote pattern) | 
+4b cc (emote-pattern) | 
     description: cc stands for chatterino command. The command replaces emotes in the given emote-pattern so that you can make a generalized chatterino-command for that pattern. | 
     permission: everyone
 
