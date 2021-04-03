@@ -30,7 +30,3 @@ The prefix for this bot is: '4b '.
 4b ml (username) | 
     descreption: sends the link to the https://modlookup.3v.fi/ for the guve user. | 
     permission: everyone
-
-4b monte | 
-    description: sends a big square of our king monte https://i.imgur.com/sxCJJsv.png. (this command needs to be added by @4rneee, bacause the square is made of 3rd party emotes, that need to be added to the channel) | 
-    permission: everyone
