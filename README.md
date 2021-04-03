@@ -28,5 +28,5 @@ The prefix for this bot is: '4b '.
     permission: broadcaster and mods
     
 4b ml (username) | 
-    descreption: sends the link to the https://modlookup.3v.fi/ for the guve user. | 
+    descreption: sends the link to the https://modlookup.3v.fi/ for the given user. | 
     permission: everyone
