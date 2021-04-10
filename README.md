@@ -30,3 +30,7 @@ The prefix for this bot is: '4b '.
 4b ml (username) | 
     descreption: sends the link to the https://modlookup.3v.fi/ for the given user. | 
     permission: everyone
+    
+4b google (google-search) | 
+    description: sends the google search link of the given google-search | 
+    permission: everyone
