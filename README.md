@@ -1,5 +1,5 @@
 # 4rneeeBot-Commands
-A list of commands for my Twitch-Bot
+A list of commands for my Twitch-Bot '4rneeeBot'.
 
 The prefix for this bot is: '**4b** '.
 
