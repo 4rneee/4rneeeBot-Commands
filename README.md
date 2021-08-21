@@ -3,6 +3,8 @@ A list of commands for my Twitch-Bot '4rneeeBot'.
 
 The prefix for this bot is: '**4b** '.
 
+For information on how to get the bot, check out it's [about page on twitch](https://www.twitch.tv/4rneeeBot/about).
+
 ---
 | Name      | arguments                 | descreption   | permission    |
 | :-------: | :-----------------------: | :----------   | :----------:  |
