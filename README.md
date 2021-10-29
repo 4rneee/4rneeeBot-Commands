@@ -15,5 +15,6 @@ For information on how to get the bot, check out it's [about page on twitch](htt
 |spam|[number] [message] |Spams the message the given amount of times|broadcaster and mods|
 |fillspam|[number] [message]|Fills the message and then spams it the given amount of times| broadcaster and mods
 |pyramid|(height) [message]|Makes a pyramid of the message with the given height. If no height is given, it will automatically do the biggest possible pyramid| boradcaster and mods|
-|ml|[username]|sends the link to https://modlookup.3v.fi/ for the given user|everyone|
+|ml|[username]|tells you in how many channels the user is a mod in and sends the link to https://modlookup.3v.fi/ for that given user|everyone|
+|massping|[message]|pings everyone in the chat with the given message|broadcaster|
 |google|[google-search]|sends the google search link of the given google-search|everyone|
